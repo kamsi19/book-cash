@@ -125,7 +125,7 @@ section {
   right: 15px;
   bottom: 15px;
   z-index: 99999;
-  background: #018014;
+  background: #817c7c;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -140,7 +140,7 @@ section {
 
 .back-to-top:hover {
   background: #6776f4;
-  color: #fff;
+  color: #817c7c;
 }
 
 .back-to-top.active {
@@ -167,7 +167,7 @@ section {
 }
 
 .header.header-scrolled {
-  background: rgb(7, 136, 18);
+  background: #030303;
   padding: 15px 0;
   box-shadow: 0px 2px 20px rgba(1, 41, 112, 0.1);
 }
@@ -365,7 +365,7 @@ section {
   position: absolute;
   top: 55px;
   right: 15px;
-  bottom: auto;
+  bottom: 15px;
   left: 15px;
   padding: 10px 0;
   border-radius: 10px;
@@ -452,7 +452,7 @@ section {
   border-radius: 4px;
   transition: 0.5s;
   color: #fff;
-  background: #e8509e;
+  background: #000000;
   box-shadow: 0px 5px 30px rgba(65, 84, 241, 0.4);
 }
 
